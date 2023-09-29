@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+
+
+
+#topo{
+
+    background-color: rgb(62, 168, 255);
+    padding-bottom: 2vw;
+}
+.icon img{
+
+    
+    width:5vw;
+    margin-left: 20vw;
+    margin-top: 2vw;   
+
+
+}
+
+.icon h1{
+
+   position: absolute;
+   font-size: 1.5vw;
+    top:3vw;
+    margin-left: 26vw;
+
+}
+
+.icon p{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-size: 1vw; 
+    top:5vw;
+    margin-left: 26vw;
+    
+}
+
+.links a{
+
+    color: rgb(255, 255, 255);
+    margin-left: 1vw;
+    text-decoration: none;
+    font-size: 0.8vw;
+    
+}
+
+.links a:hover{
+
+    color: rgb(255, 1, 1);
+
+    
+}
+
+
+.links{
+    position: absolute;
+    left: 64vw;
+    top:4vw;
+   
+
+}
+
+
+
+table{
+
+    margin-top: 10vw;
+    margin-bottom: 5vw;
+    margin-left: 13vw;
+    background-color: rgb(255, 255, 255);
+   border-collapse: collapse;
+    border: 1px solid rgb(255, 255, 255);
+    width: 75%;
+    
+    
+}
+
+tbody{
+
+    font-size: 1.2vw;
+   
+    
+    
+}
+
+thead h2{
+    margin-top: 1.5vw;
+    font-size: 1vw;
+    
+    color: rgb(161, 161, 161);
+    
+}
+thead p{
+
+    font-size: 2vw;
+    padding: 1.5vw;
+    color: rgb(0, 0, 0);
+}
+
+th{
+
+    
+    
+    border-right: 1px solid rgb(255, 255, 255);
+    border-left: 1px solid rgb(255, 255, 255);
+
+}
+
+td{
+
+    padding: 1.5vw;
+    text-align: center;
+    border-right: 1px solid rgb(211, 211, 209);
+    border-bottom: 1px solid rgb(211, 211, 209);
+
+
+}
+
+.fundo{
+
+    background-color:  rgb(217, 228, 241);
+}
+
+.blabla{
+
+    border-top: 1px solid rgb(255, 255, 255);
+}
+
+.comborda{
+
+    border-right: 1px solid rgb(255, 255, 255);
+}
+
+.fundo2{
+
+    background-color:  rgb(255, 255, 255);
+}
+
+
+th:first-child{
+
+    background-color: rgb(255, 255, 255);
+    border-top: 10px solid rgb(255, 255, 255);
+}
+
+
+td:first-child{
+
+    border: 1px solid rgb(255, 255, 255);
+}
+
+
+.bolinha{
+    margin-left: 3.1vw;
+    margin-right: 3.1vw;
+    border: 1px solid rgb(0, 102, 255);
+    color: rgb(0, 102, 255);
+    background-color: rgb(0, 102, 255);
+    border-radius: 60%;
+}
+
+.bolinha2{
+    margin-left: 4.5vw;
+    margin-right: 4.5vw;
+    border: 1px solid rgb(0, 102, 255);
+    color: rgb(0, 102, 255);
+    background-color: rgb(0, 102, 255);
+    border-radius: 60%;
+}
+
+.bolinha3{
+
+    
+    margin-left: 5.1vw;
+    margin-right: 5.1vw;
+    border: 1px solid rgb(0, 102, 255);
+    color: rgb(0, 102, 255);
+    background-color: rgb(0, 102, 255);
+    border-radius: 60%;
+}
+
+.bolinha4{
+    margin-left: 4.5vw;
+    margin-right: 4.5vw;
+    border: 1px solid rgb(0, 102, 255);
+    color: rgb(0, 102, 255);
+    background-color: rgb(0, 102, 255);
+    border-radius: 60%;
+}
+
+
+
+.rodape{
+
+    background-color: rgb(62, 168, 255);
+    padding-top: 7vw;
+    padding-bottom:7vw;
+}
+
+.rodape img{
+
+    position: absolute;
+    width:5vw;
+    margin-left: 37vw;
+    
+       
+
+
+}
+
+.rodape h1{
+
+    
+    font-size: 1.5vw;
+    position:absolute;
+    margin-left: 43vw;
+
+}
+
+.rodape p{
+
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-size: 1vw;  
+
+    margin-top: 2vw;
+    
+}
+
+
+.daniel{
+
+    font-size: 1vw;
+    font-weight: bold;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    background-color: rgb(248, 242, 242);
+    text-align: center;
+}
+
+span{
+
+    color:rgb(62, 168, 255);
+}
